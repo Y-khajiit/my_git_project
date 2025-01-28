@@ -1,3 +1,4 @@
 first string in the project
 second string in the project
 third string in the project
+hello USA
